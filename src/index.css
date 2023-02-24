@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn&display=swap');
+
+:root {
+  --primary-clr: hsl(204, 48%, 32%);
+  --primary-clr-4: rgba(74, 64, 116, 0.4);
+  --secondary: hsl(308, 45%, 34%);
+  --black: hsl(0, 0%, 0%);
+  --white: hsl(100, 100%, 100%);
+  --white-light: hsl(203, 29%, 95%);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Vollkorn', serif;
+}
